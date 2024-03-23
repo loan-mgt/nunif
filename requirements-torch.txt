@@ -8,6 +8,6 @@ torch; sys_platform == "linux"
 torchvision; sys_platform == "linux"
 
 # Windows
---index-url https://download.pytorch.org/whl/cu118 ; sys_platform == "win32"
+--index-url https://download.pytorch.org/whl/cu121 ; sys_platform == "win32"
 torch; sys_platform == "win32"
 torchvision; sys_platform == "win32"

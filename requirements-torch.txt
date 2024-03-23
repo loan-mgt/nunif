@@ -3,7 +3,7 @@ torch; sys_platform == "darwin"
 torchvision; sys_platform == "darwin"
 
 # Linux
---index-url https://download.pytorch.org/whl/cu118 ; sys_platform == "linux"
+--index-url https://download.pytorch.org/whl/cu121 ; sys_platform == "linux"
 torch; sys_platform == "linux"
 torchvision; sys_platform == "linux"
 
